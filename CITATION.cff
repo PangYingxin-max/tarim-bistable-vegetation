@@ -17,7 +17,8 @@ authors:
 year: 2026
 license: MIT
 repository-code: "https://github.com/PangYingxin-max/tarim-bistable-vegetation"
-doi: "10.5281/zenodo.24191945"
+doi: "10.5281/zenodo.24191944"
+version: "某个版本.0"
 keywords:
   - bistability
   - hysteresis
