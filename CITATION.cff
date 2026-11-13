@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the manuscript and this archived release."
+type: software
+title: "Bistable vegetation-water model of the lower Tarim River"
+abstract: >-
+  Two-state vegetation-water model with an Allee threshold that depends on
+  water stress and effective water supply, together with the MODIS-derived
+  corridor tables for the lower Tarim River (2000-2023) and the scripts that
+  reproduce every number and figure in the manuscript.
+authors:
+  - family-names: Pang
+    given-names: Yingxin
+    affiliation: "School of Mathematics and Statistics, North China University of Water Resources and Electric Power"
+  - family-names: Shen
+    given-names: Jianwei
+    affiliation: "School of Mathematics and Statistics, North China University of Water Resources and Electric Power"
+year: 2026
+license: MIT
+keywords:
+  - bistability
+  - hysteresis
+  - saddle-node bifurcation
+  - Allee threshold
+  - Populus euphratica
+  - Tarim River
+  - ecological modelling
