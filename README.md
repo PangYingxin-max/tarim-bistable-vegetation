@@ -125,8 +125,8 @@ Suggested Data Availability statement once the repository is public and
 archived (replace the placeholders):
 
 > The model code, the Earth Engine extraction script and all derived tables are
-> available at https://github.com/<account>/tarim-bistable-vegetation and
-> archived at https://doi.org/10.5281/zenodo.<record>. MODIS NDVI (MOD13Q1
+> available at https://github.com/PangYingxin-max/tarim-bistable-vegetation and
+> archived at https://doi.org/10.5281/zenodo.24191945. MODIS NDVI (MOD13Q1
 > v061) and land-surface temperature (MOD11A2 v061) are available from the NASA
 > LP DAAC (<https://doi.org/10.5067/MODIS/MOD13Q1.061>,
 > <https://doi.org/10.5067/MODIS/MOD11A2.061>). The ecological water-transfer
