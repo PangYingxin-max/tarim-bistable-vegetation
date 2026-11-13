@@ -16,6 +16,8 @@ authors:
     affiliation: "School of Mathematics and Statistics, North China University of Water Resources and Electric Power"
 year: 2026
 license: MIT
+repository-code: "https://github.com/PangYingxin-max/tarim-bistable-vegetation"
+doi: "10.5281/zenodo.24191945"
 keywords:
   - bistability
   - hysteresis
